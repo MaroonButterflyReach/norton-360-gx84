@@ -1,4 +1,4 @@
-# 
+# advanced Bitdefender 全方位安全 PC版 插件 是最佳 Bitdefender 全方位安全 PC版 插件，集成 漏洞利用防护 和 勒索软件防护。安全、可靠、优化，性能最大化。
 
 
 
